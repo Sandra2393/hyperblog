@@ -1,7 +1,22 @@
 body{
 
+    color: lime;
     text-align: center;
     font-family: "arial";
+}
+#cabecera{
+
+    background: lightcoral;
+    color: lightseagreen;
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    text-align: left;
+    border: 1px solid #DDD;
+}
+#cabecera #tagline{
+    font-weight: normal;
+    font-size: 0.8em;
 }
 #container{
     width: 70%;
